@@ -8,5 +8,6 @@ int main(){
 	b *= 2;
 	b += a;//@chen
 	cout << b << endl;
+	cout<<"leenvan"<<endl;
 	return 0;
 } 
