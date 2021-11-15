@@ -9,5 +9,6 @@ int main(){
 	b += a;//@chen
 	cout << b << endl;
 	cout << b << endl;
+	cout<<"林春豪"<<endl;
 	return 0;
 } 
