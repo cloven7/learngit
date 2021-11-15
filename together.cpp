@@ -7,7 +7,8 @@ int main(){
 	b = a + c;
 	b *= 2;
 	b += a;//@chen
+	cout << b << endl; 
 	cout << b << endl;
-	cout << b << endl;
+	cout << "chen" << endl;//@chen
 	return 0;
 } 
